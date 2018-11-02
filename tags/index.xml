@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Personal blog &amp; Sharing Twix()</title>
+    <link>https://twux.org/tags/</link>
+    <description>Recent content in Tags on Personal blog &amp; Sharing Twix()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Nov 2018 12:16:57 +0100</lastBuildDate>
+    
+	<atom:link href="https://twux.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tag1</title>
+      <link>https://twux.org/tags/tag1/</link>
+      <pubDate>Fri, 02 Nov 2018 12:16:57 +0100</pubDate>
+      
+      <guid>https://twux.org/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>https://twux.org/tags/tag2/</link>
+      <pubDate>Fri, 02 Nov 2018 12:16:57 +0100</pubDate>
+      
+      <guid>https://twux.org/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
