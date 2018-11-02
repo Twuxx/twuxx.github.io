@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Personal blog &amp; Sharing Twix()</title>
-    <link>https://twux.org/categories/</link>
+    <link>https://twuxx.github.io/categories/</link>
     <description>Recent content in Categories on Personal blog &amp; Sharing Twix()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://twux.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://twuxx.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life</title>
-      <link>https://twux.org/categories/life/</link>
+      <link>https://twuxx.github.io/categories/life/</link>
       <pubDate>Thu, 01 Nov 2018 19:25:58 +0100</pubDate>
       
-      <guid>https://twux.org/categories/life/</guid>
+      <guid>https://twuxx.github.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pentesting</title>
-      <link>https://twux.org/categories/pentesting/</link>
+      <link>https://twuxx.github.io/categories/pentesting/</link>
       <pubDate>Fri, 02 Nov 2018 12:16:57 +0100</pubDate>
       
-      <guid>https://twux.org/categories/pentesting/</guid>
+      <guid>https://twuxx.github.io/categories/pentesting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Réseaux</title>
-      <link>https://twux.org/categories/r%C3%A9seaux/</link>
+      <link>https://twuxx.github.io/categories/r%C3%A9seaux/</link>
       <pubDate>Fri, 02 Nov 2018 12:16:57 +0100</pubDate>
       
-      <guid>https://twux.org/categories/r%C3%A9seaux/</guid>
+      <guid>https://twuxx.github.io/categories/r%C3%A9seaux/</guid>
       <description></description>
     </item>
     
