@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Category</title>
+      <link>https://twuxx.github.io/categories/category/</link>
+      <pubDate>Tue, 13 Nov 2018 10:40:48 +0100</pubDate>
+      
+      <guid>https://twuxx.github.io/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ctf</title>
       <link>https://twuxx.github.io/categories/ctf/</link>
       <pubDate>Tue, 13 Nov 2018 09:29:43 +0100</pubDate>
@@ -25,6 +34,15 @@
       <pubDate>Thu, 01 Nov 2018 19:25:58 +0100</pubDate>
       
       <guid>https://twuxx.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subcategory</title>
+      <link>https://twuxx.github.io/categories/subcategory/</link>
+      <pubDate>Tue, 13 Nov 2018 10:40:48 +0100</pubDate>
+      
+      <guid>https://twuxx.github.io/categories/subcategory/</guid>
       <description></description>
     </item>
     

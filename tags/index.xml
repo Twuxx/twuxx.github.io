@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Personal blog &amp; Sharing Twix()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 10:40:48 +0100</lastBuildDate>
     
 	<atom:link href="https://twuxx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tag1</title>
+      <link>https://twuxx.github.io/tags/tag1/</link>
+      <pubDate>Tue, 13 Nov 2018 10:40:48 +0100</pubDate>
+      
+      <guid>https://twuxx.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>https://twuxx.github.io/tags/tag2/</link>
+      <pubDate>Tue, 13 Nov 2018 10:40:48 +0100</pubDate>
+      
+      <guid>https://twuxx.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
